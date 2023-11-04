@@ -45,4 +45,4 @@ UART protocol consists of mainly three components, Transmitter, Receiver, and a 
 link: https://drive.google.com/file/d/1-uZo1cmmgtzrrVyP8w8G39v2hWpdy9Ht/view?usp=sharing
 
 ### Receiver
-
+link: https://drive.google.com/file/d/1TlS2J08_B5k317xtfx1RjhbCJo4SeIcB/view?usp=sharing
