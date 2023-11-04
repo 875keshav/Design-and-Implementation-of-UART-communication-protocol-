@@ -21,14 +21,14 @@ Universal asynchronous receiver transmitter (UART) is an asynchronous serial com
 UART protocol consists of mainly three components, Transmitter, Receiver, and a Baud rate generator. The transmitter takes the data parallelly form the source device and transmits it serially one bit at a time, similarly the receiver receives the data serially one bit at a time and gives all the data parallelly to the destination device.
 
 
-### Block diagram of UART Protocol
+## Block diagram of UART Protocol
 ![image](https://github.com/875keshav/Design-and-Implementation-of-UART-communication-protocol-/assets/126338618/5cab96ae-abdb-4d7a-9489-071d94c02e2a)
                                               
-### Transmitter Module:
+## Transmitter Module:
 ![image](https://github.com/875keshav/Design-and-Implementation-of-UART-communication-protocol-/assets/126338618/74ebc838-43f5-494a-962a-318977e37754)
       
                                   
-### Receiver module:
+## Receiver module:
 ![image](https://github.com/875keshav/Design-and-Implementation-of-UART-communication-protocol-/assets/126338618/779a629f-0713-47b3-8b1b-f66395ce2ad6)
 
 
