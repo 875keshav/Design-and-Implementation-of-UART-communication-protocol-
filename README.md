@@ -5,13 +5,14 @@ Communication protocols are a set of rules that governs how the data is transmit
 Universal asynchronous receiver transmitter (UART) is an asynchronous serial communication protocol that transmits the data serially between two devices. It is a two wire communication protocols in which one wire is used for transmitting the data while, the second wire is used for reception of data.
 
 ## Objective
-•	To design UART communication protocol using Verilog.
-•	To implement and verify UART protocol using FPGA board.
+•To design UART communication protocol using Verilog.
+
+•To implement and verify UART protocol using FPGA board.
 
 ## Skillset additionally required to solve/address the problem
-●	Verilog HDL.
-●	Understanding of communication protocols.
-●	Knowledge of working on the FPGA board.
+●Verilog HDL.
+●Understanding of communication protocols.
+●Knowledge of working on the FPGA board.
 
 ## Block schematic
 UART protocol consists of mainly three components, Transmitter, Receiver, and a Baud rate generator. The transmitter takes the data parallelly form the source device and transmits it serially one bit at a time, similarly the receiver receives the data serially one bit at a time and gives all the data parallelly to the destination device.
