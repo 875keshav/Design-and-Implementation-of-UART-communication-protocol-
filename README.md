@@ -40,4 +40,9 @@ UART protocol consists of mainly three components, Transmitter, Receiver, and a 
 #### For transmitting of data 00001111:
 ![image](https://github.com/875keshav/Design-and-Implementation-of-UART-communication-protocol-/assets/126338618/d1fa1137-e9d6-4455-a50b-3476604841bc)
 
+## Implementation on the Basys3 FPGA board
+### Transmitter
+link: https://drive.google.com/file/d/1-uZo1cmmgtzrrVyP8w8G39v2hWpdy9Ht/view?usp=sharing
+
+### Receiver
 
